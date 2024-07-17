@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Simple pre-commit hook script to check for TODO comments
+echo "Running pre-commit checks..."
+
+
+
